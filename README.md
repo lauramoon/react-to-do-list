@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# To-Do List Made with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This to-do list app allows you to add and delete items, edit existing items, and toggle whether the items are crossed off.
+
 ## Available Scripts
 
-In the project directory, you can run:
+To use, clone this repo. Then in the project directory, you can run:
 
 ### `npm start`
 
